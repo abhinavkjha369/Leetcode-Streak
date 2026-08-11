@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1140-stone-game-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1480-running-sum-of-1d-array) |
 ## Nim Game
 |  |
 | ------- |
