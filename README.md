@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0027-remove-element) |
 | [0485-max-consecutive-ones](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0628-maximum-product-of-three-numbers) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0027-remove-element) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
 |  |
