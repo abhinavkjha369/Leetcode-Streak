@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0027-remove-element) |
+| [0217-contains-duplicate](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0486-predict-the-winner) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0217-contains-duplicate) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
