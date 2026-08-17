@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1480-running-sum-of-1d-array) |
+| [1563-stone-game-v](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1563-stone-game-v) |
 | [1672-richest-customer-wealth](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1929-concatenation-of-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/2235-add-two-integers) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
