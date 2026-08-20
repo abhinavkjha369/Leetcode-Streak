@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0877-stone-game) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0217-contains-duplicate) |
 | [1386-cinema-seat-allocation](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0283-move-zeroes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
@@ -234,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
