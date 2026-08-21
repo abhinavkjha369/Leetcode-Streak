@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0771-jewels-and-stones) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0217-contains-duplicate) |
+| [0771-jewels-and-stones](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0771-jewels-and-stones) |
 | [1386-cinema-seat-allocation](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
