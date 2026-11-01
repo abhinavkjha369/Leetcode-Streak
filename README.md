@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0628-maximum-product-of-three-numbers) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0202-happy-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/abhinavkjha369/Leetcode-Streak/tree/master/0836-rectangle-overlap) |
